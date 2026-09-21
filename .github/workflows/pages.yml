@@ -28,7 +28,7 @@ jobs:
       - name: Assemble static site
         run: |
           mkdir site-dist
-          cp index.html diary_updated.html premium-performance.js diary-features.js firebase-auth.js firebase-config.js sw.js manifest.webmanifest icon.svg site-dist/
+          cp index.html diary_updated.html premium-performance.js diary-features.js firebase-auth.js firebase-config.js sw.js water-recommendations.js flash-experience.js manifest.webmanifest icon.svg site-dist/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
