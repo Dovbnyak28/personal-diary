@@ -4,10 +4,10 @@
  * Never put a Firebase Admin SDK private key in this file or in GitHub Pages.
  */
 window.DIARY_FIREBASE_CONFIG = {
-    apiKey: 'PASTE_FIREBASE_API_KEY',
-    authDomain: 'PASTE_PROJECT_ID.firebaseapp.com',
-    projectId: 'PASTE_PROJECT_ID',
-    storageBucket: 'PASTE_PROJECT_ID.firebasestorage.app',
-    messagingSenderId: 'PASTE_MESSAGING_SENDER_ID',
-    appId: 'PASTE_FIREBASE_APP_ID'
+    apiKey: 'AIzaSyBzJXz-QzbphHZoft13B1klhy7XSA-W1W8',
+    authDomain: 'personal-diary-21268.firebaseapp.com',
+    projectId: 'personal-diary-21268',
+    storageBucket: 'personal-diary-21268.firebasestorage.app',
+    messagingSenderId: '924261076161',
+    appId: '1:924261076161:web:be51c605852c8df666d840'
 };
